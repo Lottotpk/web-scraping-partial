@@ -1,0 +1,11 @@
+selenium
+bs4
+pandas
+awswrangler
+awswrangler[redshift]
+boto3
+sqlalchemy
+python-dotenv
+sqlalchemy-redshift
+pandas-redshift
+tenacity
